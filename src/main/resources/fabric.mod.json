@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "aurigas-norenderpiglin",
+  "version": "${version}",
+  "name": "Aurigas-NoRenderPiglin",
+  "description": "A minecraft mod to disable Piglin Render, made for Aurigas Bartering System",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/aurigas-norenderpiglin/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "victorgponce.com.aurigasNorenderpiglin.client.AurigasNorenderpiglinClient"
+    ],
+    "main": [
+      "victorgponce.com.aurigasNorenderpiglin.AurigasNorenderpiglin"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
