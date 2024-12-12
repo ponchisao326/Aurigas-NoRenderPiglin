@@ -29,7 +29,7 @@
         "modmenu.github_releases": "https://github.com/ponchisao326/Aurigas-NoRenderPiglin",
         "modmenu.modrinth": "https://modrinth.com/user/PonchisaoHosting"
       },
-      "description": "Un mod custom creado para el creador de contenido AURIGAS. La función de este mod es deshabilitar el render de piglins para que el bartering sea usable",
+      "description": "A minecraft mod to disable Piglin Render, made for Aurigas Bartering System",
       "icon": "assets/aurigas-norenderpiglin/icon.png",
       "update_checker": false
     }
