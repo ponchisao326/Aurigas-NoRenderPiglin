@@ -21,5 +21,18 @@
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
     "minecraft": "${minecraft_version}"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/6NRTaCaEJU",
+        "modmenu.website": "https://victorgponce.com",
+        "modmenu.github_releases": "https://github.com/ponchisao326/AUTISMON-MOD/releases",
+        "modmenu.modrinth": "https://modrinth.com/user/PonchisaoHosting"
+      },
+      "description": "Un mod custom creado para el creador de contenido AURIGAS. La función de este mod es deshabilitar el render de piglins para que el bartering sea usable",
+      "icon": "assets/aurigas-norenderpiglin/icon.png",
+      "update_checker": false
+    }
   }
 }
